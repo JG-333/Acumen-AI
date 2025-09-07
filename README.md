@@ -5,7 +5,6 @@ optimized decisions, significantly boosting tactical performance by over 80%. Th
 implements a comprehensive pipeline covering data preprocessing, model training, hyperparameter 
 tuning, and performance evaluation — ensuring scalability, robustness, and ethical fairness.
 
----
 
 ### Features
 
@@ -25,7 +24,6 @@ tuning, and performance evaluation — ensuring scalability, robustness, and eth
 - **User-centric NLP Interface:** Engages users through a question-answering interface powered by 
   Transformer models  
 
----
 
 ### Tech Stack
 
@@ -37,7 +35,6 @@ tuning, and performance evaluation — ensuring scalability, robustness, and eth
 - **Evaluation:** Accuracy, Classification Report, Visualization  
 - **Ethics:** Bias Mitigation and Fairness-aware Normalization  
 
----
 
 ### Core Capabilities
 
@@ -47,7 +44,6 @@ tuning, and performance evaluation — ensuring scalability, robustness, and eth
 - **Ethical AI:** Proactively detect and reduce dataset biases  
 - **Explainability:** Clear, human-readable explanations for model predictions and NLP outputs  
 
----
 
 ### Use Cases
 
@@ -56,7 +52,6 @@ tuning, and performance evaluation — ensuring scalability, robustness, and eth
 - Interactive consultation with an NLP bot to improve decision-making  
 - Researchers examining feature influence on predictive performance  
 
----
 
 ### License
 
