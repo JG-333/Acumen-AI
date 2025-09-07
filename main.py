@@ -1,21 +1,6 @@
-try:
-  import google.colab
-  IN_COLAB = True
-except:
-  IN_COLAB = False
-
-import os
-
-if IN_COLAB:
-    if (os.getcwd() != '/content'):
-        %cd ../../
-    !git clone https://github.com/JeffSackmann/tennis_atp
-%cd /content/JeffSackmann/tennis_atp
-
 import numpy as np
 import pandas as pd
 
-%cd /content/tennis_atp/
 ext = '.csv'
 start = 1991
 end = 2021
