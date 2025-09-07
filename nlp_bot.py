@@ -1,4 +1,3 @@
-ref = "data path"
 import requests
 from bs4 import BeautifulSoup
 from langchain.document_loaders import TextLoader
@@ -6,6 +5,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains.question_answering import load_qa_chain
 from langchain import HuggingFaceHub
 from transformers import pipeline
+
+ref = "data path"
 
 def extract_text(ref):
   response = requests.get(ref)
